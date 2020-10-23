@@ -1,0 +1,13 @@
+#ulTasks li.done{
+    color: #ccc;
+    text-decoration: line-through;
+}
+
+
+@media(max-width:1000px){
+    .btn{
+        min-width: 32vw;
+    }
+}
+
+
